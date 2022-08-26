@@ -11,6 +11,7 @@ Python Packages:
 The following python packages and modules are required to run KpNet:
 tensorflow==2.8.0
 tensorflow-gpu==2.8.0
+tensorflow-probability==0.14.1
 numpy==1.22.4
 pandas==1.4.1
 keras==2.8.0
