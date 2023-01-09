@@ -29,13 +29,6 @@ Furthermore, KpNet can provide both data and model uncertainty quantification re
 To our knowledge, this is the first time that
 Bayesian transformers have been used for Kp prediction.
 
-## Binder
-
-This notebook is Binder enabled and can be run on [mybinder.org](https://mybinder.org/) by using the link below.
-
-
-### YA_01_ATransformerBasedFrameworkForGeomagneticActivity.ipynb (Jupyter Notebook for Kp-prediction)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccsc-tools/Kp-prediction/HEAD?labpath=YA_01_ATransformerBasedFrameworkForGeomagneticActivity.ipynb)
 
 Please note that starting Binder might take some time to create and start the image.
 
