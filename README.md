@@ -1,5 +1,5 @@
 ## A Transformer-Based Framework for Geomagnetic Activity Prediction<br>
-[![DOI](https://github.com/ccsc-tools/zenodo_icons/blob/main/icons/kp.svg)](https://doi.org/10.5281/zenodo.7047116)
+[![DOI](https://github.com/ccsc-tools/zenodo_icons/blob/main/icons/kp.svg)](https://zenodo.org/record/7514451#.Y7xGhRXMLrl)
 
 
 ## Authors
