@@ -32,16 +32,17 @@ Bayesian transformers have been used for Kp prediction.
 For the latest updates of the tool refer to https://github.com/deepsuncode/Kp-prediction
 
 ## Installation on local machine
+To install TensorFlow with pip refer to https://www.tensorflow.org/install/pip
+
+Tested on Python 3.9.16 and the following version of libraries
 |Library | Version   | Description  |
 |---|---|---|
-|keras| 2.8.0 | Deep learning API|
-|numpy| 1.22.4| Array manipulation|
-|scikit-learn| 1.0.2| Machine learning|
-|sklearn| latest| Tools for predictive data analysis|
-|matlabplot| 3.5.1| Visutalization tool|
-| pandas|1.4.1| Data loading and manipulation|
-| seaborn | 0.11.2| Visualization tool|
-| scipy | 1.8.1| Provides algorithms for optimization and statistics|
-| tensorflow| 2.8.0| Comprehensive, flexible ecosystem of tools and libraries for machine learning |
-| tensorflow-gpu| 2.8.0| Deep learning tool for high performance computation |
-|tensorflow-probability | 0.14.1| For probabilistic models|
+|keras| 2.10.0 | Deep learning API|
+|numpy| 1.24.2| Array manipulation|
+|scikit-learn| 1.2.1| Machine learning|
+|matplotlib| 3.6.3| Visualization tool|
+| pandas|1.5.3| Data loading and manipulation|
+| seaborn | 0.12.2| Visualization tool|
+| scipy | 1.10.0| Provides algorithms for optimization and statistics|
+| tensorflow| 2.10.1| Comprehensive, flexible ecosystem of tools and libraries for machine learning |
+|tensorflow-probability | 0.17.0| For probabilistic models|
