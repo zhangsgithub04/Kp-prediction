@@ -29,7 +29,22 @@ Furthermore, KpNet can provide both data and model uncertainty quantification re
 To our knowledge, this is the first time that
 Bayesian transformers have been used for Kp prediction.
 
+## Binder
+
+This notebook is Binder enabled and can be run on [mybinder.org](https://mybinder.org/) by using the link below.
+
+
+### ccsc_solarflare.ipynb (Jupyter Notebook for Kp-prediction)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zhangsgithub04/Kp-prediction/HEAD?labpath=YA_01_ATransformerBasedFrameworkForGeomagneticActivity.ipynb)
+
+Please note that starting Binder might take some time to create and start the image.
+
+Please also note that the execution time in Binder varies based on the availability of resources. The average time to run the notebook is 15-20 minutes, but it could be more.
+
 For the latest updates of the tool refer to https://github.com/deepsuncode/Kp-prediction
+
+
 
 ## Installation on local machine
 To install TensorFlow with pip refer to https://www.tensorflow.org/install/pip
